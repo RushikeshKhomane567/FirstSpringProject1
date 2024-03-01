@@ -7,6 +7,9 @@ import java.util.List;
 
 public class InstituteMasteRepositoryImpl  {
 
-
+public String Tushar()
+{
+    return "Tushar";
+}
 
 }
